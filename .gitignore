@@ -1,12 +1,17 @@
-# Fichiers de build et exécutables
+# Build files and executables
 bin/
 obj/
 *.exe
 *.o
+game
 
-# Fichiers de configuration de l'EDI (Code::Blocks)
+# IDE configuration files (Code::Blocks)
 *.depend
 *.layout
 
-# Fichiers de sauvegarde de partie / données temporaires
+# Dynamic libraries
+*.dll
+
+# Game save files / temporary data
 *.tds
+*.tdb
