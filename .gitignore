@@ -1,0 +1,12 @@
+# Fichiers de build et exécutables
+bin/
+obj/
+*.exe
+*.o
+
+# Fichiers de configuration de l'EDI (Code::Blocks)
+*.depend
+*.layout
+
+# Fichiers de sauvegarde de partie / données temporaires
+*.tds
