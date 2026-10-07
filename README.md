@@ -2,7 +2,8 @@
 
 A 2D Tower Defense simulation written in C using the SDL2 library. 
 
-*(Screenshot here)*
+<img width="456" height="769" alt="image" src="https://github.com/user-attachments/assets/93898d21-a36d-4e5d-a03a-ec1c2ae01a7e" />
+
 
 ## Overview
 
@@ -24,8 +25,9 @@ Install the SDL2 development libraries via your package manager:
 ```bash
 sudo apt install libsdl2-dev   # Debian / Ubuntu
 sudo pacman -S sdl2            # Arch Linux
+```
 
-(Note: A Makefile can be added, otherwise compile via your standard C toolchain linking -lSDL2)
+*(Note: A Makefile can be added, otherwise compile via your standard C toolchain, e.g., `gcc *.c -o game -I/usr/include/SDL2 -lSDL2`)*
 
 Windows:
 Open the provided projetTowerDefend.cbp workspace with Code::Blocks. Ensure your compiler and linker paths point to your local SDL2 installation.
