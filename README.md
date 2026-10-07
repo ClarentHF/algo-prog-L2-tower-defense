@@ -30,7 +30,7 @@ sudo pacman -S sdl2            # Arch Linux
 
 *(Note: A Makefile can be added, otherwise compile via your standard C toolchain, e.g., `gcc *.c -o game -I/usr/include/SDL2 -lSDL2`)*
 
-Windows:
+**Windows:**
 Open the provided projetTowerDefend.cbp workspace with Code::Blocks. Ensure your compiler and linker paths point to your local SDL2 installation.
 
 Developed by Clarent HEMERY FAY
