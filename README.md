@@ -2,7 +2,7 @@
 
 A 2D Tower Defense simulation written in C using the SDL2 library. 
 
-<img width="456" height="769" alt="image" src="https://github.com/user-attachments/assets/93898d21-a36d-4e5d-a03a-ec1c2ae01a7e" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/93898d21-a36d-4e5d-a03a-ec1c2ae01a7e" />
 
 
 ## Overview
