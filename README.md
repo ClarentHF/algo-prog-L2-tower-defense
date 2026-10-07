@@ -16,12 +16,13 @@ This project is an automated simulation where defending towers protect a King ag
 
 ## Dependencies
 
-* **SDL2**
+**SDL2**
 
 ## Build & Run
 
 **Linux:**
 Install the SDL2 development libraries via your package manager:
+
 bash :
 sudo apt install libsdl2-dev   # Debian / Ubuntu
 sudo pacman -S sdl2            # Arch Linux
