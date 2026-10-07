@@ -14,16 +14,14 @@ This project is an automated simulation where defending towers protect a King ag
 * **Algorithmic Logic:** Includes procedural path generation and automated tower placement based on range and grid coverage.
 * **Game State Persistence:** Support for saving and loading matches using both binary (`.tdb`) and text/sequential (`.tds`) file formats.
 
-## Dependencies
-
-**SDL2**
-
 ## Build & Run
+
+**Dependencies:** SDL2
 
 **Linux:**
 Install the SDL2 development libraries via your package manager:
 
-bash :
+```bash
 sudo apt install libsdl2-dev   # Debian / Ubuntu
 sudo pacman -S sdl2            # Arch Linux
 
