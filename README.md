@@ -7,7 +7,8 @@ A 2D Tower Defense simulation written in C using the SDL2 library.
 
 This project is an automated simulation where defending towers protect a King against waves of enemies along a random generated path. The core mechanics are built from scratch without external game engines, focusing on standard C data structures and memory management.
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/93898d21-a36d-4e5d-a03a-ec1c2ae01a7e" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/a4652d15-2ae9-4cae-8860-b26348a01c29" />
+
 
 ## Features
 
